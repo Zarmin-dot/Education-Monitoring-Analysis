@@ -1,4 +1,4 @@
-# 🎓 Education Monitoring Analysis – KPEMA Project
+# 🎓 Govt of KP | Education Monitoring and Data Analytics (KPEMA)
 
 A comprehensive data analysis project conducted under the Education Monitoring Authority (KPEMA), Government of Khyber Pakhtunkhwa (GoKP). This work supports evidence-based education policy through school census evaluation, financial analysis, BISE result performance, and teacher workforce review.
 
